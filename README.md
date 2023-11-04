@@ -8,8 +8,8 @@ I am an aspiring Embedded Software/ Electrical Engineer interested in Embedded S
 
 * 🌍  I'm located in Fountain Valley, California.
 * ✉️  You can contact me at [mervin1@uci.edu](mervin1@uci.edu).
-* 🧠  I'm learning ESP32, Raspberry Pi, and STM32 applications. 
-* 🚀  I’m looking to collaborate on projects related to Electrical Engineering, Hardware Design, and Embedded Software.
+* 🧠  I'm learning how to interface with ESP32, Raspberry Pi, and STM32.
+* 🚀  I’m looking to collaborate on projects related to Embedded Software and Hardware Design.
 
 ### Skills
 
