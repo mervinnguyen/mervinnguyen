@@ -1,14 +1,14 @@
-Hi, I’m Mervin, an ambitious 2nd-year student at the University of California, Irvine, pursuing a degree in Computer Engineering B.S.![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello! I’m Mervin, an ambitious 2nd-year student at the University of California, Irvine, pursuing a degree in Computer Engineering B.S.![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
 University of California (December 2025)
 ------------------
 
-I am an aspiring Embedded Software/ Electrical Engineer interested in Embedded Systems, FPGA Design, and Networking.
+I am an aspiring Embedded Software/Electrical Engineer interested in Embedded Systems and PCB Design.
 
 * 🌍  I'm located in Fountain Valley, California.
 * ✉️  You can contact me at [mervin1@uci.edu](mervin1@uci.edu).
-* 🧠  I'm learning how to interface with ESP32, Raspberry Pi, and STM32.
+* 🧠  I'm currently learning how to interface with ESP32, Raspberry Pi, and STM32.
 * 🚀  I’m looking to collaborate on projects related to Embedded Software and Hardware Design.
 
 ### Skills
