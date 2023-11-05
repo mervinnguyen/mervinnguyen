@@ -4,8 +4,6 @@ Hello! 👋 My name is Mervin Nguyen
 Embedded Software Engineer & PCB Design Engineer
 ------------------------------------------------
 
-An ambitious 2nd-year student at the University of California, Irvine, pursuing a degree in Computer Engineering B.S.
-
 * 🌍  I'm based in Fountain Valley, California.
 * ✉️  You can contact me at [mervin1@uci.edu](mailto:mervin1@uci.edu).
 * 🧠  I'm learning STM32, Raspberry Pi, and ESP32.
