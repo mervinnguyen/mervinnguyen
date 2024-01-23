@@ -1,7 +1,7 @@
 Hello! 👋 My name is Mervin Nguyen
 =====================================================================================================================================
 
-Embedded Software Engineer & PCB Design Engineer
+Embedded Software Engineer
 ------------------------------------------------
 
 * 🌍  I'm based in Fountain Valley, California.
