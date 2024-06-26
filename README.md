@@ -6,7 +6,7 @@ Embedded Software/Firmware Engineer
 
 * 🌍  I'm based in Fountain Valley, California.
 * ✉️  You can contact me at [mervin1@uci.edu](mailto:mervin1@uci.edu).
-* 🧠  I'm developing on IAR Embedded Workbench and ARM-Cortex M3
+* 🧠  I'm developing on IAR Embedded Workbench and ARM-Cortex M4
 * 🤝  I'm open to collaborating on exciting projects related to embedded systems.
 
 ### Skills
