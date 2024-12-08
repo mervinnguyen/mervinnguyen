@@ -6,7 +6,7 @@ Embedded Software/Firmware Engineer
 
 * 🌍  I'm based in Orange County, California.
 * 🖥️  See my portfolio at [mervinnguyen.github.io](http://mervinnguyen.github.io)
-* ✉️  You can contact me at [mervin1@uci.edu](mailto:mervin1@uci.edu).
+* ✉️  You can contact me at [mervin1@uci.edu](mailto: mervinnguyen123@gmail.com).
 * 🧠  I'm compiling and debugging on IAR Embedded Workbench and ARM-Cortex M4.
 * 🚀  I'm currently mastering Python and Advanced Data Structures/Algorithms.
 * 🤝  I'm open to collaborating on exciting projects related to ROS, Electric Vehicles, and Embedded Systems.
