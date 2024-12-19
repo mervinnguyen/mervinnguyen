@@ -35,6 +35,12 @@ Embedded Software/Firmware Engineer
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+Portfolio revision, NeetCode150, Blind75, Gauntlet System Validation Project, and research with Kernel and Bootloader.
+```
 
 ### Socials
 
