@@ -11,6 +11,13 @@ Embedded Software/Firmware Engineer
 * 🚀  I'm currently mastering scripting for Python and Advanced Data Structures/Algorithms.
 * 🤝  I'm open to collaborating on exciting projects related to ROS, Electric Vehicles, and Embedded Systems.
 
+📊 **This week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+Portfolio revision, NeetCode150, Blind75, Gauntlet System Validation Project, and research with Kernel and Bootloader.
+```
+
 ### Skills
 
 
@@ -34,13 +41,6 @@ Embedded Software/Firmware Engineer
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-Portfolio revision, NeetCode150, Blind75, Gauntlet System Validation Project, and research with Kernel and Bootloader.
-```
 
 ### Socials
 
