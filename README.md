@@ -15,7 +15,7 @@ Embedded Software/Firmware Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Portfolio revision, NeetCode150, Blind75, Gauntlet System Validation Project, and research with Kernel and Bootloader.
+Portfolio Revision, NeetCode150, Blind75, Gauntlet System Validation, and Research with Kernel and Bootloader.
 ```
 
 ### Skills
