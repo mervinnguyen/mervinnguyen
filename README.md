@@ -8,7 +8,7 @@ Embedded Software/Firmware Engineer
 * 🖥️  See my portfolio at [mervinnguyen.github.io](http://mervinnguyen.github.io)
 * ✉️  You can contact me at [mervinnguyen123@gmail.com](mailto:mervinnguyen123@gmail.com).
 * 🧠  I'm compiling and debugging on IAR Embedded Workbench and ARM-Cortex.
-* 🚀  I'm currently mastering C and Advanced Data Structures/Algorithms.
+* 🚀  I'm currently mastering C and Data Structures/Algorithms.
 * 🤝  I'm open to collaborating on exciting projects related to ROS, Electric Vehicles, and Embedded Systems.
 
 📊 **This week i spent my time on:**
