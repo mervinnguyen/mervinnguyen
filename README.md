@@ -52,7 +52,7 @@ NeetCode150, Blind75, Gauntlet System Validation, and Research with Kernel and B
   <li><a href="https://www.linkedin.com/posts/anteater-electric-racing-5871942b7_if-you-havent-seen-it-already-the-results-activity-7269420443625762816-JfsX?utm_source=share&utm_medium=member_desktop"><b>Anteater Electric Racing Competition Results in Willow Springs</b></a><br/><i>Our team scored 2nd in the EV division! Not bad for a test platform. We are immensely proud of our team for all their hard work and dedication to this endeavor.</i></li>
 
 
-<br/>Currently, the weather is: <b> 71°F, <i>Mostly sunny</i></b></br>Today, the sun rised at <b>05:41</b> and sets at <b>20:00</b>.</p>
+<br/>Currently, the weather is: <b> 78°F, <i>Mostly sunny</i></b></br>Today, the sun rised at <b>06:45</b> and sets at <b>18:39</b>.</p>
 
 ### Socials
 
