@@ -6,7 +6,7 @@ Embedded Software/Firmware Engineer
 
 * 🌍  I'm based in Orange County, California.
 * 🖥️  See my portfolio at [mervinnguyen.github.io](http://mervinnguyen.github.io)
-* ✉️  You can contact me at [mervinnguyen123@gmail.com](mailto:mervinnguyen123@gmail.com).
+* ✉️  You can contact me at [mervinsworld@gmail.com](mailto:mervinsworld@gmail.com).
 * 🧠  I'm working on Driver Development and Raspberry Pi 5.
 * 🚀  I'm currently mastering C and Advanced Data Structures/Algorithms.
 * 🤝  I'm open to collaborating on exciting projects related to ROS, Electric Vehicles, and Embedded Systems.
