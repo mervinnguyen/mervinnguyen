@@ -7,15 +7,15 @@ Embedded Software/Firmware Engineer
 * 🌍  I'm based in Orange County, California.
 * 🖥️  See my portfolio at [mervinnguyen.github.io](http://mervinnguyen.github.io)
 * ✉️  You can contact me at [mervinsworld@gmail.com](mailto:mervinsworld@gmail.com).
-* 🧠  I'm working on Driver Development and Raspberry Pi 5.
+* 🧠  I'm working on Driver Development and Fiber Optic Drone.
 * 🚀  I'm currently mastering C and Advanced Data Structures/Algorithms.
-* 🤝  I'm open to collaborating on exciting projects related to ROS, Electric Vehicles, and Embedded Systems.
+* 🤝  I'm open to collaborating on exciting projects related to ROS, Electric Vehicles, Embedded Systems, and AI/ML
 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
-NeetCode150, Blind75, Gauntlet System Validation, and Research with Kernel and Bootloader.
+NeetCode150, Blind75, Fiber Optic Drone, and Research with Kernel and Bootloader.
 ```
 
 ### Skills
@@ -52,7 +52,7 @@ NeetCode150, Blind75, Gauntlet System Validation, and Research with Kernel and B
   <li><a href="https://www.linkedin.com/posts/anteater-electric-racing-5871942b7_if-you-havent-seen-it-already-the-results-activity-7269420443625762816-JfsX?utm_source=share&utm_medium=member_desktop"><b>Anteater Electric Racing Competition Results in Willow Springs</b></a><br/><i>Our team scored 2nd in the EV division! Not bad for a test platform. We are immensely proud of our team for all their hard work and dedication to this endeavor.</i></li>
 
 
-<br/>Currently, the weather is: <b> 78°F, <i>Mostly sunny</i></b></br>Today, the sun rised at <b>06:45</b> and sets at <b>18:39</b>.</p>
+<br/>Currently, the weather is: <b> 60°F, <i>Mostly sunny</i></b></br>Today, the sun rised at <b>06:45</b> and sets at <b>18:39</b>.</p>
 
 ### Socials
 
