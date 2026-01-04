@@ -7,15 +7,15 @@ Embedded Software/Firmware Engineer
 * 🌍  I'm based in Orange County, California.
 * 🖥️  See my portfolio at [mervinnguyen.github.io](http://mervinnguyen.github.io)
 * ✉️  You can contact me at [mervinsworld@gmail.com](mailto:mervinsworld@gmail.com).
-* 🧠  I'm working on Driver Development and Fiber Optic Drone.
-* 🚀  I'm currently mastering C and Advanced Data Structures/Algorithms.
+* 🧠  I'm working on SPI driver and fiber optic drone project.
+* 🚀  I'm currently mastering RTOS and Data Structures/Algorithms.
 * 🤝  I'm open to collaborating on exciting projects related to ROS, Electric Vehicles, Embedded Systems, and AI/ML
 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
-NeetCode150, Blind75, Fiber Optic Drone, and Research with Kernel and Bootloader.
+NeetCode150, Blind75, Fiber Optic Drone, and Research with Drivers and Bootloader.
 ```
 
 ### Skills
