@@ -5,7 +5,7 @@ Embedded Software/Firmware Engineer
 ------------------------------------------------
 
 * 🌍  I'm based in Orange County, California.
-* 🖥️  See my portfolio at [mervinnguyen.github.io](http://mervinnguyen.github.io)
+* 🖥️  See my portfolio at [mervin-nguyen.vercel.app](https://mervin-nguyen.vercel.app/)
 * ✉️  You can contact me at [mervinsworld@gmail.com](mailto:mervinsworld@gmail.com).
 * 🧠  I'm working on SPI driver (C++) and the PhotonFlight fiber-optic drone project.
 * 🚀  I'm currently deepening my expertise in RTOS-based embedded systems and applying DSA for real-time hardware platforms.
