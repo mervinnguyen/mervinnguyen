@@ -8,7 +8,7 @@ Embedded Software/Firmware Engineer
 * 🖥️  See my portfolio at [mervin-nguyen.vercel.app](https://mervin-nguyen.vercel.app/)
 * ✉️  You can contact me at [mervinsworld@gmail.com](mailto:mervinsworld@gmail.com).
 * 🧠  I'm working on SPI driver (C++) and the PhotonFlight fiber-optic drone project.
-* 🚀  I'm currently deepening my expertise in RTOS-based embedded systems and applying DSA for real-time hardware platforms.
+* 🚀  I'm currently deepening my expertise in RTOS-based embedded systems and applying DSA to improve latency, memory efficiency, and overall system performance.
 * 🤝  I'm open to collaborating on exciting projects centered around RTOS-based firmware, MCU driver development (I2C, SPI, UART, CAN), automotive and EV embedded platforms, and AI/ML deployment on edge devices.
 
 📊 **This week i spent my time on:**
