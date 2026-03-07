@@ -11,12 +11,11 @@ Embedded Software/Firmware Engineer
 * 🚀  I'm currently deepening my expertise in RTOS-based embedded systems and applying DSA to improve latency, memory efficiency, and overall system performance.
 * 🤝  I’m interested in collaborating on systems involving RTOS-based firmware, low-level MCU driver development (I2C, SPI, UART, CAN), automotive and EV embedded platforms, and edge AI/ML deployment.
 
-📊 **This week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
-NeetCode150, Fiber Optic Drone, and research with low-level driver development architecture for deterministic and secure firmware bring-up.
-```
+Embedded Systems Interview Preparation, Fiber-optic drone project (PhotonFlight), implementation of a SPI driver for the Bosch BME280 sensor, and research into low-level driver architectures for deterministic and secure firmware bring-up.
 
 ### Skills
 
