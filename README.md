@@ -16,6 +16,7 @@ Embedded Software/Firmware Engineer
 
 ```txt
 Embedded Systems Interview Preparation, Fiber-optic drone project (PhotonFlight), implementation of a SPI driver for the Bosch BME280 sensor, and research into low-level driver architectures for deterministic and secure firmware bring-up.
+```
 
 ### Skills
 
