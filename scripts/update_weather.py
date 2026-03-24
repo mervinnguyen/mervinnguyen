@@ -1,5 +1,6 @@
 import requests
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 LAT = 33.7175
 LON = -117.8311
@@ -35,8 +36,7 @@ condition = get_condition(code)
 # Parse sunrise/sunset to local time (PST/PDT)
 def utc_to_local(utc_str):
     dt = datetime.fromisoformat(utc_str)
-    # Convert to US/Pacific manually via offset
-    local = dt.astimezone()
+    local = dt.astimezone(ZoneInfo("America/Los_Angeles"))
     return local.strftime("%H:%M")
 
 sunrise = utc_to_local(sun["results"]["sunrise"])
