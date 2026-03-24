@@ -6,10 +6,10 @@ Embedded Software/Firmware Engineer
 
 * 🌍  I'm based in Orange County, California.
 * 🖥️  See my portfolio at [mervin-nguyen.vercel.app](https://mervin-nguyen.vercel.app/)
-* ✉️  You can contact me at [mervinsworld@gmail.com](mailto:mervinsworld@gmail.com).
-* 🧠  I'm working on SPI driver (C++) and the PhotonFlight fiber-optic drone project.
-* 🚀  I'm currently deepening my expertise in RTOS-based embedded systems and applying DSA to improve latency, memory efficiency, and overall system performance.
-* 🤝  I’m interested in collaborating on systems involving RTOS-based firmware, low-level MCU driver development (I2C, SPI, UART, CAN), automotive and EV embedded platforms, and edge AI/ML deployment.
+* ✉️  You can contact me at [mervinnguyenembedded@gmail.com](mailto:mervinnguyenembedded@gmail.com).
+* 🧠  I'm building a production-grade **SPI driver in C++ with deterministic timing, DMA-backed transfers, and thread-safe bus arbitration** and a custom **real-time operating system build from scratch on ARM Cortex-M, implementing task scheduling, context switching, and priority-based preemption**.
+* 🚀  I'm currently deepening my expertise with real-time systems (scheduling, ISR design, latency optimization), low-level drivers (SPI, I2C, UART, CAN with DMA and interrupt-driven architectures, and system performance (memory efficiency, throughput optimization, and deterministic behavior).
+* 🤝  I’m interested in collaborating on systems involving bare-metal and RTOS-based firmware, embedded Linux systems, automotive/EV embedded platforms, and edge AI integration.
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
