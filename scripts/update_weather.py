@@ -64,3 +64,4 @@ with open("README.md", "w") as f:
     f.write(updated)
 
 print(f"Updated: {new_line}")
+
