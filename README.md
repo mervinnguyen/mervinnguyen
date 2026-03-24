@@ -52,7 +52,7 @@ Embedded Systems Interview Preparation, Fiber-optic drone project (PhotonFlight)
   <li><a href="https://www.linkedin.com/posts/anteater-electric-racing-5871942b7_if-you-havent-seen-it-already-the-results-activity-7269420443625762816-JfsX?utm_source=share&utm_medium=member_desktop"><b>Anteater Electric Racing Competition Results in Willow Springs</b></a><br/><i>Our team scored 2nd in the EV division! Not bad for a test platform. We are immensely proud of our team for all their hard work and dedication to this endeavor.</i></li>
 
 
-<br/>Currently, the weather is: <b>63°F, <i>Clear sky</i></b></br>Today, the sun rose at <b>13:47</b> and sets at <b>02:07</b>.</p>
+<br/>Currently, the weather is: <b>62°F, <i>Clear sky</i></b></br>Today, the sun rose at <b>13:47</b> and sets at <b>02:07</b>.</p>
 
 ### Socials
 
