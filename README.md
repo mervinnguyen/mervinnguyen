@@ -7,7 +7,7 @@ Embedded Software/Firmware Engineer
 * 🌍  I'm based in Orange County, California.
 * 🖥️  See my portfolio at [mervin-nguyen.vercel.app](https://mervin-nguyen.vercel.app/)
 * ✉️  You can contact me at [mervinnguyenembedded@gmail.com](mailto:mervinnguyenembedded@gmail.com).
-* 🧠  I'm building a production-grade **SPI driver in C++ with deterministic timing, DMA-backed transfers, and thread-safe bus arbitration** and a custom **real-time operating system from scratch on ARM Cortex-M, implementing task scheduling, context switching, and priority-based preemption**.
+* 🧠  I'm building a production-grade SPI driver in C++ with deterministic timing, DMA-backed transfers, and thread-safe bus arbitration and a custom real-time operating system from scratch on ARM Cortex-M, implementing task scheduling, context switching, and priority-based preemption.
 * 🚀  I'm currently deepening my expertise with real-time systems (scheduling, ISR design, latency optimization), low-level drivers (SPI, I2C, UART, CAN with DMA and interrupt-driven architectures), and system performance (memory efficiency, throughput optimization, and deterministic behavior).
 * 🤝  Open to collaborating on systems involving bare-metal and RTOS-based firmware, embedded Linux systems, automotive/EV embedded platforms, and edge AI integration.
 
