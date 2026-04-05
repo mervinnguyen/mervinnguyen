@@ -10,7 +10,7 @@ Embedded Software/Firmware Engineer
 * 🧠  I'm building a production-grade SPI driver in C++ with deterministic timing, DMA-backed transfers, and thread-safe bus arbitration.
 * ⚙️  I'm designing a custom RTOS from scratch on ARM Cortex-M, implementing task scheduling, context switching, and priority-based preemption.
 * 🚀  I'm currently deepening my expertise in real-time systems (scheduling, ISR design, latency optimization) and low-level drivers (SPI, I2C, UART, CAN with DMA and interrupt-driven architectures).
-* 🤝  Open to collaborating on systems involving bare-metal and RTOS-based firmware, embedded Linux systems, automotive/EV embedded platforms, and edge AI integration.
+* 🤝  Open to collaborating on systems involving bare-metal and RTOS-based firmware, embedded Linux, automotive/EV embedded platforms, and edge AI integration.
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
