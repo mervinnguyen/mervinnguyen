@@ -34,6 +34,7 @@ Embedded Systems Interview Preparation, Fiber-optic drone project (Photon Flight
     <td><a href="#"><img src="./logos/TeensyLogo.png" width="36"/></a></td>
     <td><a href="#"><img src="./logos/STM32Logo.png" width="36"/></a></td>
     <td><a href="#"><img src="./logos/ESP32Logo.png" width="36"/></a></td>
+    <td><a href="#"><img src="./logos/ATmega328PLogo.png" width="36"/></a></td>
     <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36"/></a></td>
     <td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/></a></td>
