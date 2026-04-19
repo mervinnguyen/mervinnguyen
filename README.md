@@ -55,7 +55,7 @@ Embedded Systems Interview Preparation, Fiber-optic drone project (Photon Flight
   <li><a href="https://www.linkedin.com/posts/sagar-kanjariya_task-states-context-switching-ugcPost-7270632155515355136-sFbC?utm_source=share&utm_medium=member_desktop"><b>Understanding Task States & Context Switching</b></a><br/><i>Mastering the FreeRTOS task state machine: Ready, Running, Blocked, Suspended is foundational to writing deterministic, CPU-efficient firmware in resource-constrained environments.</i></li>
 
 
-<br/>Currently, the weather is: <b>59°F, <i>Partly cloudy</i></b></br>Today, the sun rose at <b>06:14</b> and sets at <b>19:26</b>.</p>
+<br/>Currently, the weather is: <b>59°F, <i>Clear sky</i></b></br>Today, the sun rose at <b>06:14</b> and sets at <b>19:26</b>.</p>
 
 ### Socials
 
