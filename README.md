@@ -7,8 +7,9 @@ Embedded Software/Firmware Engineer
 * 🌍  I'm based in Orange County, California.
 * 🖥️  See my portfolio at [mervin-nguyen.vercel.app](https://mervin-nguyen.vercel.app/)
 * ✉️  You can contact me at [mervinnguyenembedded@gmail.com](mailto:mervinnguyenembedded@gmail.com).
-* 🧠  I'm building a production-grade SPI driver in C++ with deterministic timing, DMA-backed transfers, and thread-safe bus arbitration.
-* ⚙️  I'm designing a custom RTOS from scratch on ARM Cortex-M, implementing task scheduling, context switching, and priority-based preemption.
+* 🧠  I'm building a C++ SPI driver on ESP32 (ESP-IDF) for the BME280, register-level bus control, fixed-point 32/64-bit ADC compensation, burst reads, and FreeRTOS bus arbitration across forced and normal measurement modes.
+* ⚙️  I'm designing an RTOS from scratch on STM32F4 (Cortex-M4), bare-metal round-robin scheduler driven by SysTick at configurable quanta, naked ISR context switching with manual R4–R11 push/pop, TCB-linked-list thread management, cooperative yield via PENDSTSET, and spinlock semaphores with IRQ-disabled critical sections.
+* 🔐  I'm building BootBoot, a secure bootloader for STM32 (Cortex-M4/M7), ESP32, and RISC-V, targeting ECDSA firmware verification, five-region flash partitioning (bootloader, Slot A/B, recovery, metadata), atomic multi-slot OTA with autonomous rollback, and boot telemetry with reset cause analysis.
 * 🚀  I'm currently deepening my expertise in real-time systems (scheduling, ISR design, latency optimization) and low-level drivers (SPI, I2C, UART, CAN with DMA and interrupt-driven architectures).
 * 🤝  Open to collaborating on systems involving bare-metal and RTOS-based firmware, embedded Linux, automotive/EV embedded platforms, and edge AI integration.
 
