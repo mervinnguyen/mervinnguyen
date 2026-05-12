@@ -16,7 +16,7 @@ Embedded Software/Firmware Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Embedded Systems Interview Preparation, Fiber-optic drone project (Photon Flight), SPI driver for the Bosch BME280 sensor, and M-Core RTOS from scratch (STM32F411).
+Embedded Systems Interview Preparation, BootBoot, ADC+DMA driver, SPI driver for the Bosch BME280 sensor, and M-Core RTOS from scratch (STM32F411).
 ```
 
 ### Skills
