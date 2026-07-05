@@ -56,7 +56,7 @@ Embedded Systems Interview Preparation, BootBoot, ADC+DMA driver, SPI driver for
   <li><a href="https://www.linkedin.com/posts/sagar-kanjariya_task-states-context-switching-ugcPost-7270632155515355136-sFbC?utm_source=share&utm_medium=member_desktop"><b>Understanding Task States & Context Switching</b></a><br/><i>Mastering the FreeRTOS task state machine: Ready, Running, Blocked, Suspended is foundational to writing deterministic, CPU-efficient firmware in resource-constrained environments.</i></li>
 
 
-<br/>Currently, the weather is: <b>80°F, <i>Partly cloudy</i></b></br>Today, the sun rose at <b>05:44</b> and sets at <b>20:07</b>.</p>
+<br/>Currently, the weather is: <b>70°F, <i>Partly cloudy</i></b></br>Today, the sun rose at <b>05:45</b> and sets at <b>20:06</b>.</p>
 
 ### Socials
 
