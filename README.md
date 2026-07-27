@@ -4,7 +4,7 @@ Hello! 👋 My name is Mervin Nguyen
 Embedded Software/Firmware Engineer
 ------------------------------------------------
 
-* 🌍  I'm based in Orange County, California.
+* 🌍  I'm based in Irvine, California.
 * 🖥️  See my portfolio at [mervin-nguyen.vercel.app](https://mervin-nguyen.vercel.app/)
 * ✉️  You can contact me at [mervinnguyenembedded@gmail.com](mailto:mervinnguyenembedded@gmail.com).
 * 🧠  I'm building a C++ SPI driver on ESP32 (ESP-IDF) for the BME280, register-level bus control, fixed-point 32/64-bit ADC compensation, burst reads, and FreeRTOS bus arbitration across forced and normal measurement modes.
