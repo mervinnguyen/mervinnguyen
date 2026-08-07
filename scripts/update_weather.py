@@ -4,6 +4,7 @@ from zoneinfo import ZoneInfo
 
 LAT = 33.7175
 LON = -117.8311
+EST_ZONE = ZoneInfo("America/New_York")
 
 # Fetch weather
 weather = requests.get(
@@ -33,19 +34,21 @@ def get_condition(code):
 
 condition = get_condition(code)
 
-# Parse sunrise/sunset to local time (PST/PDT)
+# Parse sunrise/sunset to EST/EDT
 def utc_to_local(utc_str):
     dt = datetime.fromisoformat(utc_str)
-    local = dt.astimezone(ZoneInfo("America/Los_Angeles"))
+    local = dt.astimezone(EST_ZONE)
     return local.strftime("%H:%M")
 
 sunrise = utc_to_local(sun["results"]["sunrise"])
 sunset = utc_to_local(sun["results"]["sunset"])
+updated_time = datetime.now(EST_ZONE).strftime("%Y-%m-%d %H:%M %Z")
 
 # New weather line
 new_line = (
     f"<br/>Currently, the weather is: <b>{temp}°F, <i>{condition}</i></b>"
-    f"</br>Today, the sun rose at <b>{sunrise}</b> and sets at <b>{sunset}</b>.</p>"
+    f"</br>Today, the sun rose at <b>{sunrise}</b> and sets at <b>{sunset}</b>."
+    f" Last updated at <b>{updated_time}</b>.</p>"
 )
 
 # Replace in README
@@ -64,4 +67,3 @@ with open("README.md", "w") as f:
     f.write(updated)
 
 print(f"Updated: {new_line}")
-
