@@ -2,8 +2,11 @@ name: Update Weather
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # runs every 30 minutes
+    - cron: '*/15 * * * *'  # runs every 15 minutes
   workflow_dispatch:         # allows manual trigger
+
+permissions:
+  contents: write
 
 jobs:
   update-weather:
@@ -24,8 +27,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
+          git config user.email "mervin1@uci.edu"
+          git config user.name "Mervin Nguyen"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update weather"
+          git diff --cached --quiet || git commit -m "Update weather"
           git push

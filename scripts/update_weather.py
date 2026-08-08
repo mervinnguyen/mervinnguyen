@@ -2,8 +2,9 @@ import requests
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-LAT = 33.7175
-LON = -117.8311
+LOCATION = "San Mateo, CA"
+LAT = 37.5636
+LON = -122.3255
 
 # Fetch weather
 weather = requests.get(
@@ -44,7 +45,7 @@ sunset = utc_to_local(sun["results"]["sunset"])
 
 # New weather line
 new_line = (
-    f"<br/>Currently, the weather is: <b>{temp}°F, <i>{condition}</i></b>"
+    f"<br/>Currently, the weather at {LOCATION} is: <b>{temp}°F, <i>{condition}</i></b>"
     f"</br>Today, the sun rose at <b>{sunrise}</b> and sets at <b>{sunset}</b>.</p>"
 )
 
@@ -54,7 +55,7 @@ with open("README.md", "r") as f:
 
 import re
 updated = re.sub(
-    r"<br/>Currently, the weather is:.*?</p>",
+    r"<br/>Currently, the weather(?: at .*?)? is:.*?</p>",
     new_line,
     content,
     flags=re.DOTALL
