@@ -30,5 +30,18 @@ jobs:
           git config user.email "mervin1@uci.edu"
           git config user.name "Mervin Nguyen"
           git add README.md
-          git diff --cached --quiet || git commit -m "Update weather"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update weather"
+
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            if [ "$attempt" -eq 3 ]; then
+              echo "Failed to push changes after ${attempt} attempts"
+              exit 1
+            fi
+            sleep 5
+          done
