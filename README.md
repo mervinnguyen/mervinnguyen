@@ -5,7 +5,7 @@ Embedded Software/Firmware Engineer
 ------------------------------------------------
 
 * 🌍  I'm based in Irvine, California.
-* 🖥️  See my portfolio at [mervinnguyen.github.io](https://mervinnguyen.github.io/#intro)
+* 🖥️  See my portfolio at [mervin-nguyen.vercel.app](https://mervin-nguyen.vercel.app/#)
 * ✉️  You can contact me at [mervinnguyenembedded@gmail.com](mailto:mervinnguyenembedded@gmail.com).
 * 🧠  I'm building a C++ SPI driver on ESP32 (ESP-IDF) for the BME280, register-level bus control, fixed-point 32/64-bit ADC compensation, burst reads, and FreeRTOS bus arbitration across forced and normal measurement modes.
 * ⚙️  I'm designing an RTOS from scratch on STM32F4 (Cortex-M4), bare-metal round-robin scheduler driven by SysTick at configurable quanta, naked ISR context switching with manual R4–R11 push/pop, TCB-linked-list thread management, cooperative yield via PENDSTSET, and spinlock semaphores with IRQ-disabled critical sections.
@@ -17,7 +17,7 @@ Embedded Software/Firmware Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Embedded Systems Interview Preparation, BootBoot, ADC+DMA driver, SPI driver for the Bosch BME280 sensor, and M-Core RTOS from scratch (STM32F411).
+Embedded System Design Interview Preparation, BootBoot, ADC+DMA driver, SPI driver for the Bosch BME280 sensor, and M-Core RTOS from scratch (STM32F411).
 ```
 
 ### Skills
