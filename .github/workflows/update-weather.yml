@@ -5,6 +5,11 @@ on:
     - cron: '*/15 * * * *'  # runs every 15 minutes
   workflow_dispatch:         # allows manual trigger
 
+# Only one run should ever be committing/pushing at a time, since every
+# run edits the same lines of README.md and would otherwise race.
+concurrency:
+  group: update-weather
+
 permissions:
   contents: write
 
@@ -12,10 +17,10 @@ jobs:
   update-weather:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
@@ -29,6 +34,7 @@ jobs:
         run: |
           git config user.email "mervin1@uci.edu"
           git config user.name "Mervin Nguyen"
+
           git add README.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
@@ -38,10 +44,15 @@ jobs:
           git commit -m "Update weather"
 
           for attempt in 1 2 3; do
-            git pull --rebase origin main && git push && break
-            if [ "$attempt" -eq 3 ]; then
-              echo "Failed to push changes after ${attempt} attempts"
-              exit 1
+            # -X ours: if a newer weather commit already landed on main and
+            # conflicts with this one, keep this run's (newer) data instead
+            # of failing the whole job.
+            if git pull --rebase -X ours origin main && git push; then
+              exit 0
             fi
+            echo "Push attempt ${attempt} failed, retrying in 5s..."
             sleep 5
           done
+
+          echo "Failed to push changes after 3 attempts"
+          exit 1
